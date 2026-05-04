@@ -1,52 +1,22 @@
-#  Student Management System (Python CLI)
+# Student Management System
 
-##  Overview
-A feature-rich command-line application to manage student records using Python.  
-Includes data storage, search, analytics, and export functionality.
+## What this project does
+This is a Python program to manage student records.
 
----
+## Features
+- Add student
+- View students
+- Update student
+- Delete student
+- Search student
+- Show statistics
+- Export to CSV
 
-##  Features
-- Add, update, and delete students
-- Search by name or course
-- JSON-based data persistence
-- Export data to CSV
-- Student statistics (average GPA, age, etc.)
-
----
-
-##  Technologies Used
-- Python
-- JSON
-- CSV
-
----
-
-## Functionalities
-
-### Add Student
-Stores student details with unique ID
-
-### Search
-Find students by name or course
-
-###  Update
-Modify existing student details
-
-###  Delete
-Remove student records
-
-###  Analytics
-- Average GPA
-- Average Age
-- Students per course
-
-###  Export
-Export all data to CSV file
-
----
-
-##  How to Run
-
-```bash
+## How to run
+Run this command:
 python main.py
+
+## What I learned
+- Python basics
+- File handling (JSON)
+- Problem solving
