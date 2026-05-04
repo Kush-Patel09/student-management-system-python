@@ -37,4 +37,4 @@ python main.py
 ![Stats](statistics.jpg)
 
 ### Export to CSV 
-|[Export](export-csv.jpg)
+![Export](export-csv.jpg)
