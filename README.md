@@ -18,3 +18,23 @@ python main.py
 - Python
 - JSON
 - CSV
+
+##  Project Output
+
+### Main Menu
+![Menu](menu.png)
+
+### Add Student
+![Add](add-student.jpg)
+
+### View Students
+![View](view-students.jpg)
+
+### Search Function
+![Search](search.png)
+
+### Statistics
+![Stats](statistics.jpg)
+
+### Export to CSV 
+|[Export](export-csv.jpg)
