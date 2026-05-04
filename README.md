@@ -1,25 +1,23 @@
-# Student Management System
+# 🎓 Student Management System (Python CLI)
 
-## What this project does
-This is a Python CLI project to manage student records.
+A simple command-line application to manage student records using Python.
 
-## Features
-- Add student
-- Update student
-- Delete student
-- Search student
-- Show statistics
+## 🚀 Features
+- Add, update, delete students
+- Search functionality
+- JSON data storage
 - Export to CSV
+- Student statistics
 
-## How to run
+## ▶️ How to run
 python main.py
 
-## Tech used
+## 🛠️ Tech used
 - Python
 - JSON
 - CSV
 
-##  Project Output
+## 📷 Project Output
 
 ### Main Menu
 ![Menu](menu.png)
