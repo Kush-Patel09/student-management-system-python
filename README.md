@@ -1,6 +1,6 @@
 # 🎓 Student Management System (Python CLI)
 
-A simple command-line application to manage student records using Python.
+A simple Python-based application to manage student records with features like search, analytics, and CSV export.
 
 ## 🚀 Features
 - Add, update, delete students
