@@ -1,0 +1,37 @@
+[
+  {
+    "student_id": 1,
+    "name": "Kush Patel",
+    "age": 21,
+    "course": "CSE",
+    "gpa": 3.5
+  },
+  {
+    "student_id": 2,
+    "name": "Ajay Nagar",
+    "age": 22,
+    "course": "IT",
+    "gpa": 3.0
+  },
+  {
+    "student_id": 3,
+    "name": "Rohit Soni",
+    "age": 24,
+    "course": "MBA",
+    "gpa": 2.8
+  },
+  {
+    "student_id": 4,
+    "name": "Rohan Shah",
+    "age": 30,
+    "course": "Pharm D.",
+    "gpa": 2.6
+  },
+  {
+    "student_id": 5,
+    "name": "Kalp",
+    "age": 20,
+    "course": "BCA",
+    "gpa": 3.0
+  }
+]
